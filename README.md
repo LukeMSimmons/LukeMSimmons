@@ -1,5 +1,5 @@
 ## Intro
-Hello, I’m Luke.  I Thanks for checking out some of my publicly available stuff. Most of my projects are work-related, so I'm working on adding some abstracted skill demos on here. Check out my **skill_exhibition** repo for more. 
+Hello, I’m Luke.  Thanks for checking out some of my publicly available stuff. Most of my projects are work-related, so I'm working on adding some abstracted skill demos on here. Check out my **skill_exhibition** repo for more. 
 
 ## Toolkit
 Python in VS Code & JupyterLab (libraries: pyodbc, sqlalchemy, dask,
