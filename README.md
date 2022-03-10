@@ -2,7 +2,7 @@
 Hello, I’m Luke.  I Thanks for checking out some of my publicly available stuff. Most of my projects are work-related, so I'm working on adding some abstracted skill demos on here. Check out my **skill_exhibition** repo for more. 
 
 ## Toolkit
-GitHub, Conda, Python in VS Code & JupyterLab (libraries: pyodbc, sqlalchemy, dask,
+Python in VS Code & JupyterLab (libraries: pyodbc, sqlalchemy, dask,
 snowflake.connector, pandas, scikit-learn, matplotlib, seaborn, and user-defined classes/methods),
 SQL (Snowflake, SQL Server & via ODBC/sqlalchemy in Python), Tableau, IBM Cloud, AWS.
 
