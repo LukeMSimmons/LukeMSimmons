@@ -17,6 +17,6 @@ for an iterative Agile framework.
 pyspark, advanced ML, & applied bayesian reasoning. I also want to get better at quick web app style dashboards using Mercury, Flask, or maybe just Holoviews in JupyterLab. 
 
 ## Contact
-You can email me at contact.lukesimmons@gmail.com
+You can email me at thereallukesimmons@gmail.com
 
 
