@@ -1,5 +1,5 @@
 ## Intro
-Hello, my name is Luke.  Thanks for visiting my GitHub account.  I have added, and will continue to add, some abstracted skill demos on here that I think showcase some valuable tools/skills. Check out my **[skill_exhibition](https://github.com/LukeMSimmons/skill_exhibition)** repo for more. 
+Hello, my name is Luke.  Thanks for visiting my GitHub account.  I have added, and will continue to add, some abstracted skill demos on here that I think showcase some valuable tools/skills. Please check out my **[skill_exhibition](https://github.com/LukeMSimmons/skill_exhibition)** repo for more. 
 
 ## Toolkit
 Python in VS Code & JupyterLab (libraries: pyodbc, sqlalchemy, dask,
