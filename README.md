@@ -14,7 +14,7 @@ root cause analysis, stack trace debugging, production of reusable modules & abs
 for an iterative Agile framework.
 
 ## I am interested in developing my skills in.. 
-pyspark, advanced ML, & applied bayesian reasoning. I also want to get better at quick web app style dashboards using Mercury, Flask, or maybe just Holoviews in JupyterLab. 
+Advanced ML, Deep Learning, & applied bayesian reasoning. I also want to get better at deploying rapid dashboards using Dash enterprise. 
 
 ## Contact
 You can email me at thereallukesimmons@gmail.com
